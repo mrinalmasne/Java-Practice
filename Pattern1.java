@@ -1,5 +1,5 @@
 
-public class Pattern1 {
+public class Pattern1Pattern {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
